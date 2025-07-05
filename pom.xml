@@ -24,11 +24,11 @@
 
     <distributionManagement>
 		<repository>
-			<id>nexus</id>
+			<id>niranjan</id>
 			<url>http://13.57.13.23:8081/repository/rushitech-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>nexus</id>
+			<id>niranjan</id>
 			<url>http://13.57.13.23:8081/repository/rushitech-snapshot/</url>
 		</snapshotRepository>
     </distributionManagement>
